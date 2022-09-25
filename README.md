@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm bartoszm77</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b2rt0szm77&label=Profile%20views&color=0e75b6&style=flat" alt="b2rt0szm77" /> </p>
 
-- 📫 How to reach me **bartoszm77#3458**
+- 📫 You can reach me at: 
+Discord: **bartoszm77#3458**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
