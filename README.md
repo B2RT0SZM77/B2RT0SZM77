@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b2rt0szm77&label=Profile%20views&color=0e75b6&style=flat" alt="b2rt0szm77" /> </p>
 
 - 📫 You can reach me at: 
-Discord: **bartoszm77#3458**
+Discord: **barto#5065**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
