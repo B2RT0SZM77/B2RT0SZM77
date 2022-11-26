@@ -14,7 +14,7 @@ Discord: **barto#5065**
 
 
 <h3 align="left">Projects:</h3>
-<a href="passgen.cf" target="blank">
+<a href="passgen.cf" target="blank">Password Generator</a>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b2rt0szm77&" alt="b2rt0szm77" /></p>
